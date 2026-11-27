@@ -32,3 +32,8 @@ Ether
 <img width="1273" height="993" alt="IMG_5626" src="https://github.com/user-attachments/assets/3b52e6f8-adf4-4914-88a2-a749f57e5359" />
 <img width="1270" height="952" alt="IMG_5627" src="https://github.com/user-attachments/assets/fe23cc01-2980-4410-9cd5-ee7250ad65bd" />
 
+Blank Flank
+<img width="1270" height="992" alt="IMG_5628" src="https://github.com/user-attachments/assets/f50433bc-4afd-4570-8d80-1b45949b9124" />
+<img width="1266" height="990" alt="IMG_5629" src="https://github.com/user-attachments/assets/e2ac8ab3-007b-4448-9c59-3eb6763dd1a5" />
+<img width="1268" height="985" alt="IMG_5630" src="https://github.com/user-attachments/assets/9c15f9bf-5af3-4ebb-bfc8-b515fe8a4039" />
+
