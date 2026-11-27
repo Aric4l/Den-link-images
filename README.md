@@ -27,3 +27,8 @@ carrot
 Duskception
 <img width="1274" height="992" alt="IMG_5624" src="https://github.com/user-attachments/assets/695d5cb1-2951-44ab-8fbc-2e72aa6b370a" />
 <img width="1269" height="991" alt="IMG_5625" src="https://github.com/user-attachments/assets/c191efc0-1dbd-4a31-a19c-9c704aecfc74" />
+
+Ether
+<img width="1273" height="993" alt="IMG_5626" src="https://github.com/user-attachments/assets/3b52e6f8-adf4-4914-88a2-a749f57e5359" />
+<img width="1270" height="952" alt="IMG_5627" src="https://github.com/user-attachments/assets/fe23cc01-2980-4410-9cd5-ee7250ad65bd" />
+
